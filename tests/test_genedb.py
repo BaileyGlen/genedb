@@ -4,7 +4,7 @@
 """Tests for `genedb` package."""
 
 
-import unittest
+import pytest
 
 from genedb import genedb
 
