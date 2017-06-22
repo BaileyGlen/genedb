@@ -1,4 +1,4 @@
-chr	start	stop	GeneSymbol	Panel	ProteinSymbol	ProteinClass	ProteinFunction	CancerStatus	Unknown_Incidence	Unknown_ClinicalRelevance	Unknown_Guidelines	Unknown_Therapy
+chr	start	stop	GeneSymbol	Panel	ProteinSymbol	ProteinClass	ProteinFunction	CancerStatus	Unknown_Notes	Unknown_Incidence	Unknown_ClinicalRelevance	Unknown_Guidelines
 chr20	30946146	31027122	ASXL1	myeloid	Asxl1							
 chrX	39910498	40036582	BCOR	myeloid	Bcor							
 chrX	129139163	129192058	BCORL1	myeloid	BCoR-L1							
